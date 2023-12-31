@@ -51,6 +51,8 @@ name = input ("What’s your name? ").strip().title()
 # Splitting the full name into the first and last name respectively
 first, last = name.split(" ")
 
+# Division
+
 x = float(input("What's x? "))
 y = float(input("What's y? "))
 
@@ -71,3 +73,52 @@ y = float(input("What's y? "))
 z = x/y
 
 print(f"{z:.2f}")
+
+# Defining your own functions (def)
+
+def hello():
+    print("hello")
+
+name = input("What's your name? ")
+hello()
+print(name)
+
+def hello(to):
+    print("hello, ", to)
+
+name = input("What's your name? ")
+hello(name)
+
+def hello(to="world"):
+    print("hello, ", to)
+
+name = input("What's your name? ")
+hello()
+
+def main():
+
+    # Output using our own function
+    name = input("What's your name? ")
+    hello(name)
+
+    # Output without passing the expected arguments
+    hello()
+
+
+# Create our own function
+def hello(to="world"):
+    print("hello,", to)
+
+
+main()
+
+# Returning values
+
+def main():
+    x = int(input("What's x? "))
+    print("x squared is ", square(x))
+
+def square(n):
+    return n * n
+
+main()
