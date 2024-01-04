@@ -27,3 +27,24 @@ elif x > y:
     print("x is greater than y")
 else:
     print("x is equal to y")
+
+#or
+
+if x < y or x > y:
+    print("x is not equal to y")
+else:
+    print("x is equal to y")
+
+# not equal
+
+if x != y:
+    print("x is not equal to y")
+else:
+    print("x is equal to y")
+
+#equal
+
+if x == y:
+    print("x is equal to y")
+else:
+    print("x is not equal to y")
