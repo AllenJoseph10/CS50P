@@ -13,9 +13,9 @@ def main():
         print("Odd ")
 
 def is_even(n):
-    if x % 2 == 0:
-        print("Even ")
+    if n % 2 == 0:
+        return True
     else:
-        print("Odd ")
+        return False
 
 main()
