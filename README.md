@@ -7,25 +7,24 @@ Welcome to CS50P, Harvard University's Introduction to Programming with Python! 
 ### Course Content 📅
 
 **Week 0: Functions,Variables**
+
 **Week 1: Conditionals**
 
 **Week 2: Loops**
+
 **Week 3: Exceptions**
+
 **Week 4: Libraries**
+
 **Week 5: Unit Tests**
+
 **Week 6: File I/O**
+
 **Week 7: Regular Expressions**
+
 **Week 8: Object-Oriented Programming**
-**Week 1: Conditionals**
 
-4. **Week 7-8: Databases and SQL**
-   - Introduction to databases
-   - SQL basics and SQLite
-   - Integrating databases into web applications
-
-5. **Week 9-10: Final Project**
-   - Applying knowledge to build a complete Python web application
-   - Demonstrating problem-solving skills and creativity
+**Week 9: Et Cetera**
 
 ### Prerequisites 🚀
 
@@ -34,7 +33,7 @@ Welcome to CS50P, Harvard University's Introduction to Programming with Python! 
 
 ### How to Use This Repository 📁
 
-This repository contains materials and code examples used in the CS50P course. Each week's content is organized in a dedicated folder, and the README files within each folder provide instructions and explanations for the corresponding week's topics.
+This repository contains materials and code examples used in the CS50P course. Each week's content is organized in a dedicated folder.
 
 ### Assignments and Assessments 📝
 
@@ -43,10 +42,4 @@ The course includes hands-on assignments and a final project to assess your unde
 ### Support and Resources 🌐
 
 - Join the CS50P community forums for discussions and assistance.
-- Check the [Harvard CS50P website](https://cs50.harvard.edu/x/2022/) for additional resources and updates.
-
-### Acknowledgments 🙌
-
-This course is made possible by the dedicated instructors and staff at Harvard University, aiming to make computer science education accessible to everyone.
-
-Best of luck on your programming journey! 👩‍💻👨‍💻
+- Check the (https://cs50.harvard.edu/python/2022/) for additional resources and updates.
