@@ -6,12 +6,9 @@ Welcome to CS50P, Harvard University's Introduction to Programming with Python! 
 
 ### Course Content 📅
 
-1. **Week 1-2: Basics of Python**
-   - Introduction to Python syntax and data types
-   - Control flow and loops
-   - Functions and modules
+**Week 0: Functions,Variables**
 
-2. **Week 3-4: Data Structures**
+**Week 1: Conditionals**
    - Lists, tuples, and dictionaries
    - String manipulation
    - Working with files
